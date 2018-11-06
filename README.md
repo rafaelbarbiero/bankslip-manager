@@ -1,6 +1,10 @@
-[![Build Status](https://travis-ci.com/rafaelbarbiero/bankslip-manager.svg?branch=master)](https://travis-ci.com/rafaelbarbiero/bankslip-manager) [![codecov](https://codecov.io/gh/rafaelbarbiero/bankslip-manager/branch/master/graph/badge.svg)](https://codecov.io/gh/rafaelbarbiero/bankslip-manager)
-
-
+[![Build Status](https://travis-ci.com/rafaelbarbiero/bankslip-manager.svg?branch=master)](https://travis-ci.com/rafaelbarbiero/bankslip-manager) [![codecov](https://codecov.io/gh/rafaelbarbiero/bankslip-manager/branch/master/graph/badge.svg)](https://codecov.io/gh/rafaelbarbiero/bankslip-manager) 
+![](https://sonarcloud.io/api/project_badges/measure?project=rafaelbarbiero_bankslip-manager&metric=code_smells) 
+![](https://sonarcloud.io/api/project_badges/measure?project=rafaelbarbiero_bankslip-manager&metric=bugs)
+![](https://sonarcloud.io/api/project_badges/measure?project=rafaelbarbiero_bankslip-manager&metric=duplicated_lines_density)
+![](https://sonarcloud.io/api/project_badges/measure?project=rafaelbarbiero_bankslip-manager&metric=sqale_rating)
+![](https://sonarcloud.io/api/project_badges/measure?project=rafaelbarbiero_bankslip-manager&metric=sqale_index)
+![](https://sonarcloud.io/api/project_badges/measure?project=rafaelbarbiero_bankslip-manager&metric=reliability_rating)
 # Bankslip Manager Application
 
 ### Tecnologias

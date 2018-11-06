@@ -36,7 +36,6 @@
         <assertj.version>3.11.1</assertj.version>
         <jacoco.version>0.7.9</jacoco.version>
     </properties>
-
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
