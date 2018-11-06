@@ -11,7 +11,7 @@
 * JUnit
 * Swagger
 * JaCoCo
-* SonarCube
+* SonarLint
 ### Execução local
 * **Requisitos**
     1. Java 8 
