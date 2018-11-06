@@ -28,7 +28,7 @@
     3. Executar o comando de inicialização **java -jar bankslip-api-0.0.1-SNAPSHOT.jar --server.port=PORT**
     6. Se a porta não for informada, a aplicação iniciará recebendo as requisições na porta padrão 8080
     4. É possível alterar a porcentagem nas regras de cálculo com os argumentos **--interest.percentsDaysUpTo=DOUBLE VALUE(padrão 0.5) --interest.percentsGreaterThan=DOUBLE VALUE (padrão 1.0)**
-    5. É possível alterar a quantidade de dias (10 dias padrao) para as regras de cálculo com o argumento **--interest.daysUpTo=INT VALUE** 
+    5. É possível alterar a quantidade de dias para as regras de cálculo com o argumento **--interest.daysUpTo=INT VALUE(padrão 10 dias)** 
 
 ### Consumindo a API
 _Para visualizar a documentação completa da API, inicie a aplicação e navegue até a URL:_ **http://IP_ADDRESS:PORT/swagger-ui.html**
