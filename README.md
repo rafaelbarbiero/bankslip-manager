@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.com/rafaelbarbiero/bankslip-manager.svg?branch=master)](https://travis-ci.com/rafaelbarbiero/bankslip-manager)
+[![Build Status](https://travis-ci.com/rafaelbarbiero/bankslip-manager.svg?branch=master)](https://travis-ci.com/rafaelbarbiero/bankslip-manager) [![codecov](https://codecov.io/gh/rafaelbarbiero/bankslip-manager/branch/master/graph/badge.svg)](https://codecov.io/gh/rafaelbarbiero/bankslip-manager)
+
 
 # Bankslip Manager Application
 

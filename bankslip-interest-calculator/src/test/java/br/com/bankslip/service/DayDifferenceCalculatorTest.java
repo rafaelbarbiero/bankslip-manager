@@ -7,15 +7,15 @@ import org.junit.Test;
 
 import java.time.LocalDate;
 
-public class DayCalculatorCalculatorTest {
+public class DayDifferenceCalculatorTest {
 
     Bankslip bankslip;
-    DayCalculatorCalculator dayDifferenceCalculator;
+    DayDifferenceCalculator dayDifferenceCalculator;
 
     @Before
     public void setUp() {
         bankslip = new Bankslip(LocalDate.now().minusDays(20), 99000, "Customer Teste");
-        dayDifferenceCalculator = new DayCalculatorCalculator();
+        dayDifferenceCalculator = new DayDifferenceCalculator();
     }
 
     @Test

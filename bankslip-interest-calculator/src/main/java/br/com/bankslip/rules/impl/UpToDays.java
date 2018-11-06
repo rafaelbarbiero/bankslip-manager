@@ -3,7 +3,6 @@ package br.com.bankslip.rules.impl;
 import br.com.bankslip.domain.Bankslip;
 import br.com.bankslip.rules.InterestCalculationRule;
 import br.com.bankslip.service.DayCalculator;
-import br.com.bankslip.service.DayCalculatorCalculator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;

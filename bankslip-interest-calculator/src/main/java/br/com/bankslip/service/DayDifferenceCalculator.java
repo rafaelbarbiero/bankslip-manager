@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 import java.time.*;
 
 @Component
-public class DayCalculatorCalculator implements DayCalculator {
+public class DayDifferenceCalculator implements DayCalculator {
     public long getDayDifference(final Bankslip bankslip){
         final LocalDateTime dueDate = bankslip.getDueDate().atStartOfDay();
         final LocalDateTime currentDate = LocalDateTime.now();

@@ -30,7 +30,7 @@ public class Bankslip {
     private String customer;
 
     @JsonProperty(value = "payment_date")
-    private LocalDate payment_date;
+    private LocalDate paymentDate;
 
     private BigDecimal fine;
 
@@ -78,11 +78,11 @@ public class Bankslip {
     }
 
     public LocalDate getPaymentDate() {
-        return payment_date;
+        return paymentDate;
     }
 
     public void setPaymentDate(LocalDate paymentDate) {
-        this.payment_date = paymentDate;
+        this.paymentDate = paymentDate;
     }
 
     public BigDecimal getFine() {
