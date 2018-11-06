@@ -1,0 +1,17 @@
+server:
+  port: ${server_port:8080}
+spring:
+  profiles: default
+  application:
+    name: Bankslip Application
+  datasource:
+      url: jdbc:h2:mem:bankslip
+      driverClassName: org.h2.Driver
+      username: sa
+      password:
+  jpa:
+    database-plataform: org.hibernate.dialect.H2Dialect
+interest:
+  daysUpTo: ${daysUpTo:10}
+  percentsDaysUpTo: ${percentsDaysUpTo:0.5}
+  percentsGreaterThan: ${percentsGreaterThan:1.0}
