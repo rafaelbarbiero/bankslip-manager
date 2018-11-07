@@ -19,7 +19,7 @@
 ### Execução local
 * **Requisitos**
     1. Java 8 
-    2. Maven 
+    2. Maven 3.5.3
 
 * **Instruções**
     1. Navegar até o diretório raiz do projeto
